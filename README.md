@@ -1,4 +1,4 @@
-[![Build Status][travis-image]][travis-url] [![Coverage][coveralls-image]][coveralls-url]
+[![Build Status][travis-image]][travis-url]
 
 jest-expect-error
 ==================
