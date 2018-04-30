@@ -1,6 +1,6 @@
 {
   "name": "jest-expect-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The missing `expect.error(String|RegExp)` from jest as `expectError(String|RegExp)`",
   "main": "index.js",
   "directories": {
