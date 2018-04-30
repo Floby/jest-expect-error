@@ -16,6 +16,7 @@ Usage
 -----
 
 ```javascript
+const { expectError } = require('jest-expect-error')
 const stub = jest.fn()
 const error = new Error('My Custom Error')
 stub(error)
