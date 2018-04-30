@@ -1,0 +1,33 @@
+{
+  "name": "jest-expect-error",
+  "version": "1.0.0",
+  "description": "The missing `expect.error(String|RegExp)` from jest as `expectError(String|RegExp)`",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floby/jest-expect-error.git"
+  },
+  "keywords": [
+    "jest",
+    "errors",
+    "matcher",
+    "error",
+    "matcher",
+    "sinon"
+  ],
+  "author": "Florent Jaby <florent.jaby@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Floby/jest-expect-error/issues"
+  },
+  "homepage": "https://github.com/Floby/jest-expect-error#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
